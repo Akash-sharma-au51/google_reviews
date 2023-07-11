@@ -1,0 +1,25 @@
+{
+  "name": "googlereviewsscraper",
+  "version": "1.0.0",
+  "description": "\"google review scrapper\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akash-sharma-au51/google_reviews.git"
+  },
+  "author": "the skysharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akash-sharma-au51/google_reviews/issues"
+  },
+  "homepage": "https://github.com/Akash-sharma-au51/google_reviews#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "puppeteer": "^20.8.1",
+    "request": "^2.88.2"
+  }
+}
